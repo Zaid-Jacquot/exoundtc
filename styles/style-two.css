@@ -1,0 +1,27 @@
+h1 {
+  font-size: 40px;
+}
+p {
+  background-color: aquamarine;
+}
+
+.textTwo-center {
+  text-align: center;
+}
+#end {
+  text-align: end;
+}
+a {
+  text-decoration: none;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: black;
+  padding: 5px;
+}
+
+a:hover {
+  background-color: rgb(21, 145, 104);
+  transition: 0.15s ease;
+  color: white;
+  border-radius: 5px;
+}
